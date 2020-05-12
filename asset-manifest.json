@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/qqsud/static/css/main.1fcf2150.chunk.css",
-    "main.js": "/qqsud/static/js/main.d24c37d6.chunk.js",
-    "main.js.map": "/qqsud/static/js/main.d24c37d6.chunk.js.map",
+    "main.js": "/qqsud/static/js/main.924098fd.chunk.js",
+    "main.js.map": "/qqsud/static/js/main.924098fd.chunk.js.map",
     "runtime-main.js": "/qqsud/static/js/runtime-main.a8bfa413.js",
     "runtime-main.js.map": "/qqsud/static/js/runtime-main.a8bfa413.js.map",
     "static/js/2.86c15b68.chunk.js": "/qqsud/static/js/2.86c15b68.chunk.js",
     "static/js/2.86c15b68.chunk.js.map": "/qqsud/static/js/2.86c15b68.chunk.js.map",
     "index.html": "/qqsud/index.html",
-    "precache-manifest.4f2db3522d735232496b4f568a973c46.js": "/qqsud/precache-manifest.4f2db3522d735232496b4f568a973c46.js",
+    "precache-manifest.2cee6ae6c4b24631a2e05db2b8e940f0.js": "/qqsud/precache-manifest.2cee6ae6c4b24631a2e05db2b8e940f0.js",
     "service-worker.js": "/qqsud/service-worker.js",
     "static/css/main.1fcf2150.chunk.css.map": "/qqsud/static/css/main.1fcf2150.chunk.css.map",
     "static/js/2.86c15b68.chunk.js.LICENSE.txt": "/qqsud/static/js/2.86c15b68.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a8bfa413.js",
     "static/js/2.86c15b68.chunk.js",
     "static/css/main.1fcf2150.chunk.css",
-    "static/js/main.d24c37d6.chunk.js"
+    "static/js/main.924098fd.chunk.js"
   ]
 }
