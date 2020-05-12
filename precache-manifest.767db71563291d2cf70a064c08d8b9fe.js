@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f489e8a5786ec56e997dea98980a20e",
+    "revision": "bd521c94577c14d643da021cf3983873",
     "url": "/qqsud/index.html"
   },
   {
-    "revision": "eca9a5a04ad8bb8b8fd1",
-    "url": "/qqsud/static/css/main.9c6f85f1.chunk.css"
+    "revision": "411c6037d27a3ce74c00",
+    "url": "/qqsud/static/css/main.67061cd3.chunk.css"
   },
   {
     "revision": "aea4d99785e58b6e913a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qqsud/static/js/2.86c15b68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eca9a5a04ad8bb8b8fd1",
+    "revision": "411c6037d27a3ce74c00",
     "url": "/qqsud/static/js/main.4a13e9e8.chunk.js"
   },
   {
